@@ -1,6 +1,3 @@
-import {startGame} from './Snake.js';
+import {startGame} from './Game.js';
 
-function main() {
-    startGame();
-}
-main();
+startGame();
