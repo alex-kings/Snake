@@ -9,7 +9,7 @@ class Game{
         this.tileNb = 15;
         this.tileSize = this.canvas.width/this.tileNb;
         this.gameSpeed = 5;
-        this.bgColour = "yellow";
+        this.bgColour = "#f7ff61";
         this.headImg = new Image(0,0);
         this.bodyImg = new Image();
         this.tailImg = new Image();
